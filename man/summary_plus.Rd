@@ -20,7 +20,3 @@ An integrated solution for descriptive analysis.
     2. Numbers and percentage of missing value for each variable.
     3. Other descriptive statistics for each variable.
 }
-\examples{
-summary_plus(ucla)
-summary_plus(df)
-}

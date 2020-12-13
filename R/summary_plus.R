@@ -11,8 +11,6 @@
 #' @return Returns Size, Numbers of missing value, Rows, Columns of the data frame.
 #'     Returns missing value number and percentage and descriptive statistics for each variable.
 #'
-#' @examples summary_plus(ucla)
-#' summary_plus(df)
 
 
 summary_plus = function(df){

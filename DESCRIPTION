@@ -18,4 +18,5 @@ Imports:
     dplyr,
     tidyr,
     magrittr,
-    ggplot2
+    ggplot2,
+    usethis
