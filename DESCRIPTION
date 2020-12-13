@@ -1,0 +1,21 @@
+Package: MaeToolbox
+Type: Package
+Title: This package contains some useful tools for MAE projects.
+Version: 0.1.0
+Author: Yiheng An
+Maintainer: Yiheng An <anyiheng119@126.com>
+Description: This package is the fianl project for ECON 441A offered by MAE program, UCLA Economics Department.
+    The pakage contains a total of 5 functions and/or datasets with documentation.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
+Imports: 
+    tibble,
+    psych,
+    dplyr,
+    tidyr,
+    magrittr,
+    ggplot2
